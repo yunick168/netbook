@@ -1,0 +1,23 @@
+.search{
+  margin: 10px 0;
+  >label{
+    display: inline-block;
+    margin: 0 10px;
+  }
+  >div{
+    display: flex;
+    margin: 10px;
+    border-bottom: 1px solid black;
+    >input{
+      border: none;
+      outline: none;
+      width: 90%;
+      padding: 6px 10px;
+    }
+    >button{
+      background-color: black;
+      color: white;
+      width: 10%;
+    }
+  }
+}

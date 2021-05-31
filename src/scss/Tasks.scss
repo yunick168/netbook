@@ -1,0 +1,32 @@
+.noting-tasks{
+  min-height: 150px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+.tasks{
+  margin: 10px 0;
+  >li{
+    word-break:break-all;
+    padding: 5px 10px;
+    border-bottom: 1px #ddd solid;
+    >p{
+      font-size: .8rem;
+      >span{color: red;}
+    }
+    >div{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 5px 0 0;
+      >p{
+        font-size: .8rem;
+      }
+      button{margin: 0 5px;>i{font-size: .8rem;color:rgb(83, 83, 83)}}
+    }
+    &:hover{
+      background-color: #eee;
+    }
+  }
+}

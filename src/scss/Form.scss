@@ -1,0 +1,47 @@
+.add-tack-from {
+  >div {
+    label {
+      display: inline-block;
+      margin: 10px 0;
+    }
+
+    input[type='text'] {
+      width: 100%;
+      padding: 8px 10px;
+    }
+
+    input[type='date'],
+    input[type='time'] {
+      width: 100%;
+      padding: 5px 10px;
+    }
+
+    input[type='checkbox'] {
+      margin: -2px 10px 0;
+    }
+  }
+}
+
+.add-time-wrap {
+  >div {
+    display: flex;
+
+    >input {
+      &:first-child {
+        margin-right: 5px;
+      }
+    }
+  }
+}
+
+.add-reminder-wrap{
+  display: flex;
+  align-items: center;
+}
+
+.add-task-btn{
+  background-color: black;
+  padding: 10px 0;
+  width: 100%;
+  color: white;
+}
