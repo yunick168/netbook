@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/netbook/static/css/main.c5f4bd15.chunk.css",
+    "main.js": "/netbook/static/js/main.57b81ebd.chunk.js",
+    "main.js.map": "/netbook/static/js/main.57b81ebd.chunk.js.map",
+    "runtime-main.js": "/netbook/static/js/runtime-main.25ac8b91.js",
+    "runtime-main.js.map": "/netbook/static/js/runtime-main.25ac8b91.js.map",
+    "static/js/2.773e6d79.chunk.js": "/netbook/static/js/2.773e6d79.chunk.js",
+    "static/js/2.773e6d79.chunk.js.map": "/netbook/static/js/2.773e6d79.chunk.js.map",
+    "static/js/3.3e37c0b3.chunk.js": "/netbook/static/js/3.3e37c0b3.chunk.js",
+    "static/js/3.3e37c0b3.chunk.js.map": "/netbook/static/js/3.3e37c0b3.chunk.js.map",
+    "index.html": "/netbook/index.html",
+    "static/css/main.c5f4bd15.chunk.css.map": "/netbook/static/css/main.c5f4bd15.chunk.css.map",
+    "static/js/2.773e6d79.chunk.js.LICENSE.txt": "/netbook/static/js/2.773e6d79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25ac8b91.js",
+    "static/js/2.773e6d79.chunk.js",
+    "static/css/main.c5f4bd15.chunk.css",
+    "static/js/main.57b81ebd.chunk.js"
+  ]
+}
